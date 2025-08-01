@@ -1,6 +1,10 @@
 # ML Foundations Final Project
 This is my final project for the ML Foundations course by Cornell which aims to predict the hours per week an individual works based on Census data. It follows the ML Life Cycle to clean and prepare data and then build, train and evaluate models to find the best one for the Supervised Learning Regression problem.
 
+# Links
+- [Jupyter Notebook](https://github.com/shreenat/ML-Foundations-Final-Project/blob/main/DefineAndSolveMLProblem.ipynb)
+- Dataset
+
 # Why it is important?
 Predicting the hours per week that an individual will invest in their work can help companies make administrative and recruitment decisions. It can also be used to create policies that prevent overworking of employees and provide the necessary resources to families.
 
