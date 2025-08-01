@@ -3,7 +3,7 @@ This is my final project for the ML Foundations course by Cornell which aims to 
 
 # Links
 - [Jupyter Notebook](https://github.com/shreenat/ML-Foundations-Final-Project/blob/main/DefineAndSolveMLProblem.ipynb)
-- Dataset
+- [Dataset](https://github.com/shreenat/ML-Foundations-Final-Project/blob/main/censusData.csv)
 
 # Why it is important?
 Predicting the hours per week that an individual will invest in their work can help companies make administrative and recruitment decisions. It can also be used to create policies that prevent overworking of employees and provide the necessary resources to families.
