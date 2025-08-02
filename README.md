@@ -33,6 +33,36 @@ Although, this model performed the best out of all the models trained and tested
 - The models were evaluate by calculating the Root Mean Square Error (RMSE) and the Coefficient of Determination (r^2) for the models on test data to perform out-of-sample validation. However, even for the best performing model derived from the model selection process, the r^2 value was low and the loss value high. This is likely because the data available was limited with the features not correlating well with the label. The future goal would be to build new features that are more relevant to the label.
 - The data used here is also from a Census from 1994 which is not applicable today. It would be more useful to get data more recent data and that too from multiple years.
 
+# How to test the code?
+1. Install Jupyter Notebooks
+If you don't already have Jupyter notebooks installed on you device, follow the instructions at the following link to install it : <br>
+https://jupyter.org/install
+
+2. Download the Jupyter Notebook
+  Download the Jupyter Notebook for whichever lab you want to run.
+
+2. Launch Jupyter Notebooks Server
+- Open your terminal or command prompt.
+- Navigate to the directory where you want to store or access your Jupyter notebooks using the cd command (e.g., cd Documents/MyNotebooks).
+- Type the following command and press Enter: <br>
+ ``` jupyter notebook ```
+
+3. Open the Notebook in Jupyter Notebooks Server
+- Navigate to the .ipynb file in the Jupyter Notebook interface and click on its name
+
+4. Upload the sample dataset
+- Download the dataset file.
+- In the top-right corner of the Jupyter Notebook dashboard, locate and click the "Upload" button. This action will open a file selection dialog from your local machine.
+- Select the dataset file from your local file system.
+  
+6. Interact with the Notebook:
+- Cells: Jupyter notebooks are composed of cells. You can have code cells (where you write and execute code) and Markdown cells (for text, explanations, and formatting).
+- Running Cells:To execute a code cell, select the cell and press Shift + Enter, or click the "Run" button in the toolbar. The output of the code will appear directly below the cell.
+- Saving: Notebooks are automatically saved periodically, but you can also manually save them by clicking the "Save" icon or going to "File" > "Save and Checkpoint."
+
+6. Shut Down the Server:
+To stop the Jupyter Notebook server, go back to your terminal or command prompt where the server is running.
+Press Ctrl + C twice to shut down the server and all associated kernels.
 
 
 
